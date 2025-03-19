@@ -17,3 +17,5 @@ if __name__ == "__main__":
     print(subtract_numbers(5, 3))  # Expected Output: 2
     print(multiply_numbers(2, 3))  # Expected Output: 6
     print(divide_numbers(6, 3))  # Expected Output: 2.0
+
+print("Test")
